@@ -1,4 +1,3 @@
-import com.sun.java.accessibility.util.AWTEventMonitor;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -87,3 +86,4 @@ public class PainterController {
         public int getRadius() {return radius;}
     }
 }
+
